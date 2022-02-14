@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1642862539696" clover="3.2.0">
-  <project timestamp="1642862539696" name="All files">
+<coverage generated="1643020616882" clover="3.2.0">
+  <project timestamp="1643020616882" name="All files">
     <metrics statements="21" coveredstatements="21" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8" elements="29" coveredelements="29" complexity="0" loc="21" ncloc="21" packages="1" files="2" classes="2"/>
     <file name="api.bcb.js" path="C:\Users\maico\OneDrive\Documentos\Estudos\fullstack-master\projetos-devpleno\convert-my-money\convertmymoney\lib\api.bcb.js">
       <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
