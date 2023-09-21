@@ -1,0 +1,40 @@
+.home {
+  display: block;
+  text-align: center;
+}
+.logo{
+  width: 489px;
+  margin: 20px;
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.form__cotacao {
+  border: 1px solid #000000;
+  background-color: #FDFDFD;
+  font-size: 20px;
+  padding: 10px;
+  margin: 4px;
+}
+.converter {
+  border: 1px solid #000000;
+  background: #d8d8d8;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.result  {
+  width: fit-content;
+  margin: auto;
+  padding: 10px;
+  border: 1px solid #000000;
+  background-color: #d8d8d8;
+}
+
+
+
+
+
